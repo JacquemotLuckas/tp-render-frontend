@@ -25,8 +25,6 @@ onMounted(async () => {
   </header>
 
   <main>
-    <TheWelcome />
-
     <section>
       <h2>Utilisateurs depuis l’API :</h2>
       <ul>
